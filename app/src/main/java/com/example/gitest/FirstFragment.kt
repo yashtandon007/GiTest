@@ -15,6 +15,7 @@ class FirstFragment : Fragment() {
 
 
     //1
+    //2
     private var _binding: FragmentFirstBinding? = null
 
     // This property is only valid between onCreateView and
