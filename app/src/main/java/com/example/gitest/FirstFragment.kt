@@ -13,14 +13,15 @@ import com.example.gitest.databinding.FragmentFirstBinding
  */
 class FirstFragment : Fragment() {
 
+
+    //kk
+    //kk2
     private var _binding: FragmentFirstBinding? = null
 
     // This property is only valid between onCreateView and
     // onDestroyView.
     private val binding get() = _binding!!
 
-    //aa
-    //bb
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
